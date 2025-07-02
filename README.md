@@ -15,3 +15,5 @@ Provided practical recommendations for personalized marketing, credit offerings,
 
 Files Included
 CreditCard_Analysis_Customer_Segmentation.ipynb – Jupyter Notebook with all analysis and code.
+
+Dataset: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
