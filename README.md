@@ -10,7 +10,7 @@ Interpretation: Developed detailed personas for each cluster and extracted busin
 Visualization: Built a Tableau dashboard to communicate findings interactively.
 
 Results & Business Insights
-Identified clear customer segments with distinct financial behaviors and psychographic.
+Identified clear customer segments with distinct financial behaviors and demographics.
 Provided practical recommendations for personalized marketing, credit offerings, and customer retention strategies.
 
 Files Included
